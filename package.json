@@ -1,5 +1,5 @@
 {
-  "name": "@sabarivasan-27/calculator",
+  "name": "@sabarivasan216/calculator",
   "version": "1.0.0",
   "scripts": {
     "build":"npm unbuild"
