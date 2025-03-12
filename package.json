@@ -1,0 +1,23 @@
+{
+  "name": "@sabarivasan-27/calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "build":"npm unbuild"
+  },
+  "keywords": [],
+  "author": "sabrivasan",
+  "license": "ISC",
+  "description": "creating a simple calculator",
+  "exports":{
+    ".":{
+      "import":"./dist/index.mjs",
+      "require":"./dist/index.cjs"
+    }
+  },
+"repository": {"type": "git",
+"url": "https://github.com/sabarivasan216/calculator.git"
+ },
+ "bugs": {"url": "https://github.com/sabarivasan216/calculator/issues"},
+ "homepage": "https://github.com/sabarivasan216/calculator"
+
+}
